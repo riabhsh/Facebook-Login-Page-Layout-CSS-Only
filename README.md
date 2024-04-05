@@ -9,5 +9,5 @@ https://codepen.io/riabhsh/full/bGJLEBo
 ![Facebook Login Page Layout Mobile](https://raw.githubusercontent.com/riabhsh/Facebook-Login-Page-Layout-CSS-Only/main/Screenshot%20%20mobile.png)
 
 ### Web:
-![Crypto Exchange Component Website](https://raw.githubusercontent.com/riabhsh/Facebook-Login-Page-Layout-CSS-Only/main/Screenshot%20Desktop.png)
+![Facebook Login Page Layout Website](https://raw.githubusercontent.com/riabhsh/Facebook-Login-Page-Layout-CSS-Only/main/Screenshot%20Desktop.png)
 
